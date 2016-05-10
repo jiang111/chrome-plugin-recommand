@@ -14,26 +14,32 @@ ID： ghgabhipcejejjmhhchfonmamedcbeod
 
 ###3.DHC REST Client
 可模拟网络请求的一个chrome应用，反正我觉得比postman漂亮多了。 <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/dhc.png)  <br />
 ID： aejoelaoggembcahagimdiliamlcdmfm
 
 ###4.GitHub Hovercard
 当鼠标放到github的某个链接是弹出改项目或者作者的信息. <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/GitHubHovercard.png) <br />
 ID： mmoahbbnojgkclgceahhakhnccimnplk
 
 ###5.Google学术搜索按钮
 这个不多说 <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/Googlesearch.png) <br />
 ID： ldipcbpaocekfooobnbcddclnhejkcpn
 
 ###6.Imagus
 当鼠标放到图片或者视频上时，自动展示大图.  <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/Imagus.png) <br />
 ID： immpkjjlgappgfkkfieppnmlhakdmaab
 
 ###7.JSON-handle
 很方便的解析json <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/json_handle.png) <br />
 ID： iahnhfdhidomcpggpaimmmahffihkfnj
 
 ###8.Octotree
 这个每个程序员必备.在github项目页左侧展示该项目的树结构 <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/Octotree.png) <br />
 ID： bkhaagjahfmjljalopjnoealnfndnagc
 
 ###9.smartUp手势
@@ -42,10 +48,17 @@ ID： bgjfekefhjemchdeigphccilhncnjldn
 
 ###10.Tampermonkey
 类似firefox上的油猴子 <br />
+推荐几个常用的.
+>* 让你的github更 material design  https://github.com/jiang111/chrome-plugin-recommand/blob/master/js/GitHub-Material-Design.js  
+
+>* 重新整合微博页面,屏蔽那些天天秀恩爱又不好意思取关的那些人 https://github.com/jiang111/chrome-plugin-recommand/blob/master/js/Yet-Another-Weibo-Filter.js
+
+>* 方便下载youtube的字幕,有下载字幕肯定得有下载视频的 http://www.clipconverter.cc/, https://github.com/jiang111/chrome-plugin-recommand/blob/master/js/Youtube%20Auto-Subtitle-Downloader.js
 ID： dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 ###11. Vysor (Beta)
 android程序员必备,连接并显示安卓屏幕的内容 <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/vysor.png) <br />
 ID： gidgenkbbabolejbgbpnhbimgjbffefm
 
 
