@@ -1,10 +1,15 @@
 # chrome-plugin-recommand
+
+用法:https://chrome.google.com/webstore/detail/${ID}
+
 ###1.CL1024
 不要说我污,由于种种原因....「取消viidii跳转」「种子链接转化磁链接」「去帖子广告」「阅读帖子按楼数快速跳转楼层」「帖子内去掉1024的回复」「今日帖子高亮」「超大图片根据屏幕缩放」 <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/cl1024.png) <br />
 ID： acepnhnkhmopdalklljkpnijmpammmjm
 
 ###2.Click&Clean
 监控浏览器的一些状态，很方便的清理缓存，历史记录等等. <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/cleanclear.png) <br />
 ID： ghgabhipcejejjmhhchfonmamedcbeod
 
 ###3.DHC REST Client
