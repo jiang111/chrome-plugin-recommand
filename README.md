@@ -1,11 +1,5 @@
 # chrome-plugin-recommand 程序员必备的那些Chrome插件
 
-收集大家常用的一些Android代码,看这里:https://github.com/jiang111/awesome-android-tips/blob/master/README.md
-
-收集Android studio 常用的插件,请看这里:https://github.com/jiang111/awesome-androidstudio-plugins
-
-博客地址:http://www.jyuesong.com
-
 ###1.CL1024
 由于种种原因....「取消viidii跳转」「种子链接转化磁链接」「去帖子广告」「阅读帖子按楼数快速跳转楼层」「帖子内去掉1024的回复」「今日帖子高亮」「超大图片根据屏幕缩放」 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/cl1024.png) <br />
@@ -94,7 +88,7 @@ https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihh
 浏览器窗口内取色 <br />
 https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka
 
-###19.https://chrome.google.com/webstore/detail/sourcegraph-chrome-extens/dgjhfomjieaadpoljlnidmbgkdffpack
+###19.sourcegraph-chrome-extens
 更好的查看github的代码，直接从源代码的引用跳至定义，更好的搜索效果。源代码搬运工福利来了！
 https://chrome.google.com/webstore/detail/sourcegraph-chrome-extens/dgjhfomjieaadpoljlnidmbgkdffpack
 
