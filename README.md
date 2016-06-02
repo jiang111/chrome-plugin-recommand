@@ -92,6 +92,10 @@ https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhje
 更好的查看github的代码，直接从源代码的引用跳至定义，更好的搜索效果。源代码搬运工福利来了！
 https://chrome.google.com/webstore/detail/sourcegraph-chrome-extens/dgjhfomjieaadpoljlnidmbgkdffpack
 
+###20.Hacker Vision
+快速实现网页的黑白切换
+https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/hacker-vision/fommidcneendjonelhhhkmoekeicedej
+
 
 
 ###推荐
