@@ -94,9 +94,12 @@ https://chrome.google.com/webstore/detail/sourcegraph-chrome-extens/dgjhfomjieaa
 
 ###20.Hacker Vision
 快速实现网页的黑白切换
-https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/hacker-vision/fommidcneendjonelhhhkmoekeicedej
+https://chrome.google.com/webstore/detail/hacker-vision/fommidcneendjonelhhhkmoekeicedej
 
-
+###21.download-any-for-github 
+可以下载GitHub指定文件夹和文件 
+![](https://raw.githubusercontent.com/onlylemi/res/master/download-any-for-github-preview.png)
+https://github.com/onlylemi/download-any-for-github
 
 ###推荐
 
