@@ -107,6 +107,11 @@ FeHelper，Chrome浏览器插件，包含一些前端实用的工具，推荐安
 ![](https://static.baidufe.com//fehelper/static/img/fehelper/codebeautify.png?v=1)
 https://www.baidufe.com/fehelper
 
+###个人微信公众号:
+公众号:androidesigner <br />
+![](https://raw.githubusercontent.com/jiang111/wechat_article/master/qrcode.jpg)
+
+
 
 
 ###推荐
