@@ -110,6 +110,11 @@ https://www.baidufe.com/fehelper
 ###23.掘金
 https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb
 
+###24.Wappalyzer
+展示你访问的网页由什么技术栈所构建. <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/wappalyzer.png)
+https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg
+
 ###个人微信公众号:
 公众号:androidesigner <br />
 ![](https://raw.githubusercontent.com/jiang111/wechat_article/master/qrcode.jpg)
