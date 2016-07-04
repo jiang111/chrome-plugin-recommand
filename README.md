@@ -115,6 +115,11 @@ https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinha
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/wappalyzer.png)
 https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg
 
+###25.Codota
+Codota是另一款源代码搜索利器，索引了数百万公开项目的Java源代码，并能秒搜自己打的源代码，最重要的是它还提供了Chrome插件，操作更加简便！搞Java的，特别是Android的请先码住 <br />
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/codota.png)
+http://www.codota.com/
+
 ###个人微信公众号:
 公众号:androidesigner <br />
 ![](https://raw.githubusercontent.com/jiang111/wechat_article/master/qrcode.jpg)
