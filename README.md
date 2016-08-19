@@ -54,7 +54,7 @@ https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphc
 >* 方便下载youtube的字幕,有下载字幕肯定得有下载视频的 http://www.clipconverter.cc/, https://github.com/jiang111/chrome-plugin-recommand/blob/master/js/Youtube%20Auto-Subtitle-Downloader.js
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-###11. Vysor (Beta)
+###11. Vysor (Beta) 新版本免费版分辨率明显差很多,不推荐使用
 android程序员必备,连接并显示安卓屏幕的内容 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/vysor.png) <br />
 https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm
