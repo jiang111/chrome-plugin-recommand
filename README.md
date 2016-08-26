@@ -121,10 +121,10 @@ Codota是另一款源代码搜索利器，索引了数百万公开项目的Java�
 
 http://www.codota.com/
 
-###个人微信公众号:
-公众号:androidesigner <br />
-![](https://raw.githubusercontent.com/jiang111/wechat_article/master/qrcode.jpg)
-
+###26.GitHub Plus
+GitHub Plus 这个 Chrome 扩展就可以帮你轻松地下载项目中的任意单个文件了。可对比###8Octotree,个人比较喜欢Octotree
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/github_plus.jpg)
+https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd
 
 ###推荐
 >* 收集Android你不知道的那些小技巧:https://github.com/jiang111/awesome-android-tips
