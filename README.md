@@ -123,7 +123,7 @@ http://www.codota.com/
 
 ###26.GitHub Plus
 GitHub Plus 这个 Chrome 扩展就可以帮你轻松地下载项目中的任意单个文件了。可对比###8Octotree,个人比较喜欢Octotree
-![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/github_plus.jpg)
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/github_plus.png)  <br />
 https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd
 
 ###推荐
