@@ -126,6 +126,11 @@ GitHub Plus 这个 Chrome 扩展就可以帮你轻松地下载项目中的任意
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/github_plus.png)  <br />
 https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd
 
+###27.vue-devtools
+Chrome扩展调试Vue.js应用
+![](https://raw.githubusercontent.com/vuejs/vue-devtools/master/media/screenshot.png)
+https://github.com/vuejs/vue-devtools
+
 ###推荐
 >* 收集Android你不知道的那些小技巧:https://github.com/jiang111/awesome-android-tips
 >* 收集Android studio 常用的插件,请看这里:https://github.com/jiang111/awesome-androidstudio-plugins
