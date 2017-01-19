@@ -136,6 +136,12 @@ Chrome extension for full text history search!
 ![](https://github.com/lengstrom/falcon/raw/master/Falcon.gif)
 https://github.com/lengstrom/falcon
 
+###29.Chrome 新插件｜帮助中国开发者更便捷地浏览Google 开发者资源网站
+![](http://bp.googleblog.cn/ggpt/iVs6Fr935IDyUkFwREGIT5t4If1wkv0G27_PCDSTs43hGMpppVD6l-ts-eWyusj4gxb1mB-OBRZN82LQKkYwB8trbUPxpPAxmEl1vcGyFytDKdiW-tIO7GoOE4in-jq65E6Bk7Mp)
+
+https://github.com/chenzhuo914/google-cn-devsites-extension
+
+
 
 
 
