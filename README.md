@@ -1,6 +1,6 @@
 # 程序员必备的那些Chrome插件
 
-[解决百度云下载限速和必须要百度云盘才能下载的问题](https://github.com/jiang111/chrome-plugin-recommand/blob/master/baiduyun.md)
+[解决百度云下载限速和必须要百度云盘才能下载的问题(非插件)](https://github.com/jiang111/chrome-plugin-recommand/blob/master/baiduyun.md)
 
 ###1.CL1024
 由于种种原因....「取消viidii跳转」「种子链接转化磁链接」「去帖子广告」「阅读帖子按楼数快速跳转楼层」「帖子内去掉1024的回复」「今日帖子高亮」「超大图片根据屏幕缩放」 <br />
