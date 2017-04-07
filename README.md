@@ -1,52 +1,51 @@
 # 程序员必备的那些Chrome插件
 
-[解决百度云下载限速和必须要百度云盘才能下载的问题(非插件)](https://github.com/jiang111/chrome-plugin-recommand/blob/master/baiduyun.md)
 
-###1.CL1024
+### 1.CL1024
 由于种种原因....「取消viidii跳转」「种子链接转化磁链接」「去帖子广告」「阅读帖子按楼数快速跳转楼层」「帖子内去掉1024的回复」「今日帖子高亮」「超大图片根据屏幕缩放」 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/cl1024.png) <br />
 https://chrome.google.com/webstore/detail/cl1024/efdllnloheadnjjahfmdohomdphlgcjm
 
-###2.Click&Clean
+### 2.Click&Clean
 监控浏览器的一些状态，很方便的清理缓存，历史记录等等. <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/cleanclear.png) <br />
 https://chrome.google.com/webstore/detail/clickclean-app/pdabfienifkbhoihedcgeogidfmibmhp
 
-###3.DHC REST Client
+### 3.DHC REST Client
 可模拟网络请求的一个chrome应用，反正我觉得比postman漂亮多了。 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/dhc.png)  <br />
 https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm
 
-###4.GitHub Hovercard
+### 4.GitHub Hovercard
 当鼠标放到github的某个链接是弹出改项目或者作者的信息. <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/GitHubHovercard.png) <br />
 https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk
 
-###5.Google学术搜索按钮
+### 5.Google学术搜索按钮
 这个不多说 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/Googlesearch.png) <br />
 https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn
 
-###6.Imagus
+### 6.Imagus
 当鼠标放到图片或者视频上时，自动展示大图.  <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/Imagus.png) <br />
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
 
-###7.JSON-handle
+### 7.JSON-handle
 很方便的解析json <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/json_handle.png) <br />
 https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj
 
-###8.Octotree
+### 8.Octotree
 这个每个程序员必备.在github项目页左侧展示该项目的树结构 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/Octotree.png) <br />
 https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc
 
-###9.smartUp手势
+### 9.smartUp手势
 一个更好的手势类扩展。功能包括：鼠标手势，简易拖曳，超级拖曳，摇杆手势和滚轮手势。 <br />
 https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn
 
-###10.Tampermonkey
+### 10.Tampermonkey
 类似firefox上的油猴子 <br />
 推荐几个常用的.
 >* 让你的github更 material design  https://github.com/jiang111/chrome-plugin-recommand/blob/master/js/GitHub-Material-Design.js  
@@ -56,89 +55,89 @@ https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphc
 >* 方便下载youtube的字幕,有下载字幕肯定得有下载视频的 http://www.clipconverter.cc/, https://github.com/jiang111/chrome-plugin-recommand/blob/master/js/Youtube%20Auto-Subtitle-Downloader.js
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-###11. Vysor (Beta) 新版本免费版分辨率明显差很多,不推荐使用
+### 11. Vysor (Beta) 新版本免费版分辨率明显差很多,不推荐使用
 android程序员必备,连接并显示安卓屏幕的内容 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/vysor.png) <br />
 https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm
 
 
-###12.划词翻译
+### 12.划词翻译
 支持谷歌、百度、有道、必应四大翻译和朗读引擎，可以方便的查看、复制和朗读不同引擎的翻译结果。 <br />
 https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad
 
-###13.Holmes
+### 13.Holmes
 更方便的书签管理器 <br />
 https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn
 
-###14.Vimium
+### 14.Vimium
 The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim. <br />
 https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 
-###15. FireBug
+### 15. FireBug
 IT前端民工必备  <br />
 https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench
 
-###16.Window Resizer
+### 16.Window Resizer
 可以快速调整浏览器窗口的尺寸，用于观察网站页面宽度 <br />
 https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh
 
-###17.PageMonitor
+### 17.PageMonitor
 页面监控，如果内容有更新就通知你,你抢电子产品的时候肯定需要 <br />
 https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
 
-###18.EyeDroper
+### 18.EyeDroper
 浏览器窗口内取色 <br />
 https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka
 
-###19.sourcegraph-chrome-extens
+### 19.sourcegraph-chrome-extens
 更好的查看github的代码，直接从源代码的引用跳至定义，更好的搜索效果。源代码搬运工福利来了！
 https://chrome.google.com/webstore/detail/sourcegraph-chrome-extens/dgjhfomjieaadpoljlnidmbgkdffpack
 
-###20.Hacker Vision
+### 20.Hacker Vision
 快速实现网页的黑白切换
 https://chrome.google.com/webstore/detail/hacker-vision/fommidcneendjonelhhhkmoekeicedej
 
-###21.download-any-for-github 
+### 21.download-any-for-github 
 可以下载GitHub指定文件夹和文件 
 ![](https://raw.githubusercontent.com/onlylemi/res/master/download-any-for-github-preview.png)
 https://github.com/onlylemi/download-any-for-github
 
-###22.WEB前端助手（FeHelper）
+### 22.WEB前端助手（FeHelper）
 FeHelper，Chrome浏览器插件，包含一些前端实用的工具，推荐安装！
 ![](https://static.baidufe.com//fehelper/static/img/fehelper/wpo.png?v=1)
 ![](https://static.baidufe.com//fehelper/static/img/fehelper/codebeautify.png?v=1)
 https://www.baidufe.com/fehelper
 
-###23.掘金
+### 23.掘金
 https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb
 
-###24.Wappalyzer
+### 24.Wappalyzer
 展示你访问的网页由什么技术栈所构建. <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/wappalyzer.png)
 https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg
 
-###25.Codota
+### 25.Codota
 Codota是另一款源代码搜索利器，索引了数百万公开项目的Java源代码，并能秒搜自己打的源代码，最重要的是它还提供了Chrome插件，操作更加简便！搞Java的，特别是Android的请先码住 <br />
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/codota.jpg)  
 
 http://www.codota.com/
 
-###26.GitHub Plus
+### 26.GitHub Plus
 GitHub Plus 这个 Chrome 扩展就可以帮你轻松地下载项目中的任意单个文件了。可对比###8Octotree,个人比较喜欢Octotree
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/github_plus.png)  <br />
 https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd
 
-###27.vue-devtools
+### 27.vue-devtools
 Chrome扩展调试Vue.js应用
 ![](https://raw.githubusercontent.com/vuejs/vue-devtools/master/media/screenshot.png)
 https://github.com/vuejs/vue-devtools
 
-###28.falcon
+### 28.falcon
 Chrome extension for full text history search! 
 ![](https://github.com/lengstrom/falcon/raw/master/Falcon.gif)
 https://github.com/lengstrom/falcon
 
-###29.Chrome 新插件｜帮助中国开发者更便捷地浏览Google 开发者资源网站
+### 29.Chrome 新插件｜帮助中国开发者更便捷地浏览Google 开发者资源网站
 ![](http://bp.googleblog.cn/ggpt/iVs6Fr935IDyUkFwREGIT5t4If1wkv0G27_PCDSTs43hGMpppVD6l-ts-eWyusj4gxb1mB-OBRZN82LQKkYwB8trbUPxpPAxmEl1vcGyFytDKdiW-tIO7GoOE4in-jq65E6Bk7Mp)
 
 https://github.com/chenzhuo914/google-cn-devsites-extension
