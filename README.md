@@ -143,6 +143,9 @@ https://github.com/lengstrom/falcon
 https://github.com/chenzhuo914/google-cn-devsites-extension
 
 
+### 30.xpath 插件
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/xpath.png)
+https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?utm_source=chrome-ntp-icon
 
 
 
