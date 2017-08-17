@@ -147,5 +147,13 @@ https://github.com/chenzhuo914/google-cn-devsites-extension
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/xpath.png)
 https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?utm_source=chrome-ntp-icon
 
+### 31.User-Agent Switcher for Chrome
+![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/ua-switch.png)
+https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 
+### 32.BaiduExporter
+
+可以方便的把百度网盘的下载地址导出到 aria2/aria2-rpc，支持 YAAW。
+
+https://github.com/acgotaku/BaiduExporter
 
