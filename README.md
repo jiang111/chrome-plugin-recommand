@@ -134,7 +134,9 @@ https://github.com/vuejs/vue-devtools
 
 ### 28.falcon
 Chrome extension for full text history search! 
+
 ![](https://github.com/lengstrom/falcon/raw/master/Falcon.gif)
+
 https://github.com/lengstrom/falcon
 
 ### 29.Chrome 新插件｜帮助中国开发者更便捷地浏览Google 开发者资源网站
@@ -145,10 +147,12 @@ https://github.com/chenzhuo914/google-cn-devsites-extension
 
 ### 30.xpath 插件
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/xpath.png)
+
 https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?utm_source=chrome-ntp-icon
 
 ### 31.User-Agent Switcher for Chrome
 ![](https://raw.githubusercontent.com/jiang111/chrome-plugin-recommand/master/img/ua-switch.png)
+
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 
 ### 32.BaiduExporter
